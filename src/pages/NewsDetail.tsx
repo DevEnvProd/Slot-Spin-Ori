@@ -52,9 +52,10 @@ export const NewsDetail: React.FC = () => {
 
               <div className="prose prose-lg max-w-none text-gray-600 mb-12">
                 <p className="text-xl font-medium text-gray-900 mb-6">{item.excerpt}</p>
-                <div className="whitespace-pre-line">
-                  {item.content}
-                </div>
+                <div 
+                  className="whitespace-pre-line text-gray-700 leading-relaxed"
+                  dangerouslySetInnerHTML={{ __html: item.content }}
+                />
               </div>
 
               <div className="flex items-center gap-2 mb-12 text-sm text-gray-400">

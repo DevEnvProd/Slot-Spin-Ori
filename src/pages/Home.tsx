@@ -54,12 +54,12 @@ export const Home: React.FC = () => {
               Lihat Semua Review
             </Link>
             <a
-              href="https://platinum-casino.example.com"
+              href="https://winbox666.com"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-text-dark border border-gray-200 font-bold px-8 py-4 rounded-xl hover:bg-gray-50 transition-colors"
             >
-              Main di Platinum Casino
+              Main di Winbox
             </a>
           </motion.div>
         </div>
@@ -118,7 +118,7 @@ export const Home: React.FC = () => {
                   Read Full Review
                 </Link>
                 <a
-                  href="https://platinum-casino.example.com"
+                  href="https://winbox666.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-secondary text-primary font-bold px-8 py-4 rounded-xl hover:scale-105 transition-transform text-center"

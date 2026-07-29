@@ -70,12 +70,12 @@ export const ReviewDetail: React.FC = () => {
                   </div>
 
                   <a
-                    href="https://platinum-casino.example.com"
+                    href="https://winbox666.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="w-full mt-8 bg-primary text-white font-bold py-4 rounded-xl hover:bg-red-700 transition-colors flex items-center justify-center gap-2 shadow-lg shadow-red-100"
+                    className="w-full mt-8 bg-primary text-white font-bold py-4 rounded-xl hover:bg-red-700 transition-colors flex items-center justify-center gap-2 shadow-lg shadow-red-100 animate-pulse"
                   >
-                    PLAY AT PLATINUM CASINO <ExternalLink className="w-5 h-5" />
+                    PLAY AT WINBOX
                   </a>
                 </div>
               </motion.div>

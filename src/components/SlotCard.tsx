@@ -48,12 +48,12 @@ export const SlotCard: React.FC<SlotCardProps> = ({ review }) => {
             Read Review
           </Link>
           <a
-            href="https://platinum-casino.example.com"
+            href="https://winbox666.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center justify-center bg-primary text-white font-semibold py-2 rounded-lg hover:bg-red-700 transition-colors text-sm gap-1"
+            className="flex items-center justify-center bg-primary text-white font-semibold py-2 rounded-lg hover:bg-red-700 transition-colors text-sm gap-1 animate-pulse"
           >
-            Play Now <ExternalLink className="w-3 h-3" />
+            Play Now
           </a>
         </div>
       </div>
